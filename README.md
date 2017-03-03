@@ -1,3 +1,3 @@
 # hello-world
 
-Ide jön csomó blabla
+First try editing the readme.
